@@ -1,0 +1,2 @@
+# Red.Training
+Training resources
